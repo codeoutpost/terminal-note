@@ -10,4 +10,4 @@
 # commands
 |TYPE|KEY|RESULT|
 |:----------|:----------:|:----------------------|
-|Navigation|<C-a>|Go to start of the line|
+|Navigation|Ctrl + a|Go to start of the line|
