@@ -7,3 +7,7 @@
 ``` Bash
   npm install -g nodemon
 ```
+# commands
+|TYPE|KEY|RESULT|
+|:----------|:----------:|:----------------------|
+|Navigation|<C-a>|Go to start of the line|
