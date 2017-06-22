@@ -13,5 +13,4 @@
 |Navigation|Ctrl + a|Go to start of the line|
 |Navigation|Ctrl + e|Go to end of the line|
 |Navigation|Ctrl + k|Delete from current to end|
-
 |Navigation|Ctrl + r|Search previous|
