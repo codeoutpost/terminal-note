@@ -1,3 +1,7 @@
+# install home brew
+``` Bash
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+```
 # install pip (for Python)
 ``` Bash
   sudo easy_install pip
